@@ -1,0 +1,5 @@
+event_id,timestamp,username,ip_address,login_attempts,failed_attempts,time_between_attempts,unique_usernames,ip_reputation
+1,2026-09-18 08:00:00,aradhana,192.168.1.10,2,1,40.5,1,0.90
+2,2026-09-18 08:01:00,admin,192.168.1.20,15,14,1.2,6,0.15
+3,2026-09-18 08:02:00,student,192.168.1.11,3,1,35.4,1,0.85
+4,2026-09-18 08:03:00,root,192.168.1.20,20,19,0.8,8,0.10

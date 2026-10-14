@@ -1,0 +1,5 @@
+
+[2026-09-16 19:38:47] BRUTE-FORCE ALERT
+Risk Score: 92.50%
+Login Data: {'login_attempts': 80, 'failed_attempts': 60, 'time_between_attempts': 0.5, 'unique_usernames': 20, 'ip_reputation': 0.1}
+--------------------------------------------------
